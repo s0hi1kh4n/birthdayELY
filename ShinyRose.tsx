@@ -6,7 +6,7 @@ const ShinyRose = () => {
   const createHeart = () => {
     const heart = document.createElement("div");
     heart.classList.add("heart");
-    heart.innerHTML = "❤️";
+    heart.innerHTML = "❤️🎂❤️";
     heart.style.left = `${Math.random() * 100}%`;
     heart.style.top = "-10px";
     heart.style.fontSize = `${Math.random() * 20 + 10}px`;
