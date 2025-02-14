@@ -69,7 +69,7 @@ const ShinyRose = () => {
           className="rose-leaf"
         />
       </svg>
-      <p className="vText">Happy Valentine's Day</p>
+      <p className="vText">Happy Birthday Ely</p>
     </div>
   );
 };
